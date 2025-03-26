@@ -1,0 +1,14 @@
+C:\Users\Ali_1\source\repos\Algoritma_Analizi\Algoritma_Analizi\bin\Debug\net8.0\Algoritma_Analizi.exe
+C:\Users\Ali_1\source\repos\Algoritma_Analizi\Algoritma_Analizi\bin\Debug\net8.0\Algoritma_Analizi.deps.json
+C:\Users\Ali_1\source\repos\Algoritma_Analizi\Algoritma_Analizi\bin\Debug\net8.0\Algoritma_Analizi.runtimeconfig.json
+C:\Users\Ali_1\source\repos\Algoritma_Analizi\Algoritma_Analizi\bin\Debug\net8.0\Algoritma_Analizi.dll
+C:\Users\Ali_1\source\repos\Algoritma_Analizi\Algoritma_Analizi\bin\Debug\net8.0\Algoritma_Analizi.pdb
+C:\Users\Ali_1\source\repos\Algoritma_Analizi\Algoritma_Analizi\obj\Debug\net8.0\Algoritma_Analizi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali_1\source\repos\Algoritma_Analizi\Algoritma_Analizi\obj\Debug\net8.0\Algoritma_Analizi.AssemblyInfoInputs.cache
+C:\Users\Ali_1\source\repos\Algoritma_Analizi\Algoritma_Analizi\obj\Debug\net8.0\Algoritma_Analizi.AssemblyInfo.cs
+C:\Users\Ali_1\source\repos\Algoritma_Analizi\Algoritma_Analizi\obj\Debug\net8.0\Algoritma_Analizi.csproj.CoreCompileInputs.cache
+C:\Users\Ali_1\source\repos\Algoritma_Analizi\Algoritma_Analizi\obj\Debug\net8.0\Algoritma_Analizi.dll
+C:\Users\Ali_1\source\repos\Algoritma_Analizi\Algoritma_Analizi\obj\Debug\net8.0\refint\Algoritma_Analizi.dll
+C:\Users\Ali_1\source\repos\Algoritma_Analizi\Algoritma_Analizi\obj\Debug\net8.0\Algoritma_Analizi.pdb
+C:\Users\Ali_1\source\repos\Algoritma_Analizi\Algoritma_Analizi\obj\Debug\net8.0\Algoritma_Analizi.genruntimeconfig.cache
+C:\Users\Ali_1\source\repos\Algoritma_Analizi\Algoritma_Analizi\obj\Debug\net8.0\ref\Algoritma_Analizi.dll
