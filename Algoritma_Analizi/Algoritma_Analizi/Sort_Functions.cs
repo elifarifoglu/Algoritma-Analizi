@@ -128,4 +128,8 @@ namespace Algoritma_Analizi
             return temp_Array[k - 1];       
         }
     }
+
+
+ 
+    
 }
