@@ -1,0 +1,14 @@
+C:\Users\Ali_1\source\repos\Array_Pointer_based_crud\Array_Pointer_based_crud\bin\Debug\net9.0\Array_Pointer_based_crud.exe
+C:\Users\Ali_1\source\repos\Array_Pointer_based_crud\Array_Pointer_based_crud\bin\Debug\net9.0\Array_Pointer_based_crud.deps.json
+C:\Users\Ali_1\source\repos\Array_Pointer_based_crud\Array_Pointer_based_crud\bin\Debug\net9.0\Array_Pointer_based_crud.runtimeconfig.json
+C:\Users\Ali_1\source\repos\Array_Pointer_based_crud\Array_Pointer_based_crud\bin\Debug\net9.0\Array_Pointer_based_crud.dll
+C:\Users\Ali_1\source\repos\Array_Pointer_based_crud\Array_Pointer_based_crud\bin\Debug\net9.0\Array_Pointer_based_crud.pdb
+C:\Users\Ali_1\source\repos\Array_Pointer_based_crud\Array_Pointer_based_crud\obj\Debug\net9.0\Array_Pointer_based_crud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali_1\source\repos\Array_Pointer_based_crud\Array_Pointer_based_crud\obj\Debug\net9.0\Array_Pointer_based_crud.AssemblyInfoInputs.cache
+C:\Users\Ali_1\source\repos\Array_Pointer_based_crud\Array_Pointer_based_crud\obj\Debug\net9.0\Array_Pointer_based_crud.AssemblyInfo.cs
+C:\Users\Ali_1\source\repos\Array_Pointer_based_crud\Array_Pointer_based_crud\obj\Debug\net9.0\Array_Pointer_based_crud.csproj.CoreCompileInputs.cache
+C:\Users\Ali_1\source\repos\Array_Pointer_based_crud\Array_Pointer_based_crud\obj\Debug\net9.0\Array_Pointer_based_crud.dll
+C:\Users\Ali_1\source\repos\Array_Pointer_based_crud\Array_Pointer_based_crud\obj\Debug\net9.0\refint\Array_Pointer_based_crud.dll
+C:\Users\Ali_1\source\repos\Array_Pointer_based_crud\Array_Pointer_based_crud\obj\Debug\net9.0\Array_Pointer_based_crud.pdb
+C:\Users\Ali_1\source\repos\Array_Pointer_based_crud\Array_Pointer_based_crud\obj\Debug\net9.0\Array_Pointer_based_crud.genruntimeconfig.cache
+C:\Users\Ali_1\source\repos\Array_Pointer_based_crud\Array_Pointer_based_crud\obj\Debug\net9.0\ref\Array_Pointer_based_crud.dll
